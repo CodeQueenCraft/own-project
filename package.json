@@ -1,6 +1,6 @@
 {
   "name": "own-project",
-  "homepage": "https://koschel90.github.io/own-website",
+  "homepage": "https://koschel90.github.io/own-website/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
