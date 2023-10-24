@@ -1,0 +1,6 @@
+Open Project in VS-Code:
+
+im Terminal:
+code . //open Project
+npm run dev //run Webserver
+
